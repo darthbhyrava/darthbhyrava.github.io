@@ -1,11 +1,15 @@
 ---
-title: Welcome to Jekyll!
-icon: fa-check
+title: Reach out to me!
+icon: fa-edit
 order: 4
 ---
 
-This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.
+I like words. And talking to people. And writing to them. And reading from them. And communication, in general. So if you wish to ping me regarding something related to football or some fantasy literature or a cool NLP startup idea or a poem you've read, please feel free to reach out to me via [mail](hbhyrava@gmail.com). Or even better, write to me. Yes, a real handwritten letter inside an envelope with stamps on it. 
 
-All sections have titles, which are listed in the site's navigation menu. At the top of each section, the section's title will render by default (e.g., Welcome to Jekyll!). If you want it to show something different (see Intro), add **auto-header: none** to your frontmatter, and add your text in a <h2> tag inside a <header> tag outside the frontmatter. You'll want to give each section an **order** parameter, also in the frontmatter, or it won't know where to put itself and will hide. Icons are from [Font Awesome](http://fontawesome.io/icons/).
-
-You may notice that this section is written in Markdown -- either Markdown or html works!
+And I'll reply - I always do. :) 
+```
+Sriharsh Bhyravajjula,
+384, Palash Nivas,
+IIIT-Hyderabad, Gachibowli,
+Telangana - 500032
+```
