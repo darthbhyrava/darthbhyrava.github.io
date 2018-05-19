@@ -34,7 +34,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I write, sometimes. I code, at others. I love Star Wars, and I support Manchester United.
 author: darthbhyrava
 email: hbhyrava@gmail.com
-avatar: assets/images/color.png
+avatar: 
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
