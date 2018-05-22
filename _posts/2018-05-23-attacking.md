@@ -41,6 +41,7 @@ Pep Guardiola's systems are the prime example of what width can do. Width is ess
 ### IV. Positioning and Movement
 
 ***
+
 <div style="text-align: center;"><img src="{{ 'assets/images/highline.jpg' | relative_url }}" alt="" /></div>
 
 There's a phrase most football fans would be familiar with - a 'high backline'. An attacking philosophy should aim to provide as many numbers in attack as possible to help support the forwards (there's only so much an isolated Lukaku can do after winning a header) and a good way of doing that without compromising the midfield is to ~~clone N'Golo Kante~~ push up your defence higher up the pitch, i.e., maintain a high backline. This compresses the distance between defence, midfield and attack, and doesn't leave spaces vulnerable to a counter. Of course, a high backline means you're vulnerable to pacy forwards running onto throughballs behind your defence, but attacking always comes with its price. And this is a price I'd sometimes want Mourinho to pay. 
