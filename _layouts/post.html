@@ -2,7 +2,6 @@
 layout: default
 ---
 {%- include header.html -%}
-{% include facebook-init.html %}
 
 <!-- Main -->
 <div id="main">
@@ -15,7 +14,7 @@ layout: default
 			</header>
 	    {{- content -}}
 	    <div class="disqus">
-	  		{% include disqus.html}
+	  		{%- include disqus.html -%}
 	  	</div>
 	  </div>
 	</article>
