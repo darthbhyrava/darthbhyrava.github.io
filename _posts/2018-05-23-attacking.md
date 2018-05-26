@@ -2,7 +2,6 @@
 title: What does 'attacking' football mean?
 author: sith_offside
 layout: post
-fbcomments: yes
 ---
 
 
