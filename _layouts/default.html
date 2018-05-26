@@ -1,13 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	{%- include head.html -%}
-	{% include facebook-init.html %}
 	<body>
 		{{- content -}}
-		{% if page.fbcomments %}
-	    	<hr/>
-	    	<h4>Comments</h4>
-	    	<div class="fb-comments" data-href="http://darthbhyrava.in/{{ page.url }}" data-num-posts="4" data-width="700"></div>
-		{% endif %}
 	</body>
 </html>
