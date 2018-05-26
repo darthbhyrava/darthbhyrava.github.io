@@ -14,11 +14,11 @@ layout: default
 				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
 			</header>
 	    {{- content -}}
-	    {% if page.fbcomments %}
-	    	<hr/>
-	    	<h4>Comments</h4>
-	    	<div class="fb-comments" data-href="http://darthbhyrava.in/{{ page.url }}" data-num-posts="4" data-width="700"></div>
-		{% endif %}
 	  </div>
 	</article>
+	{% if page.fbcomments %}
+	    <hr/>
+	    <h4>Comments</h4>
+	    <div class="fb-comments" data-href="http://darthbhyrava.in/{{ page.url }}" data-num-posts="4" data-width="700"></div>
+	{% endif %}
 </div>
