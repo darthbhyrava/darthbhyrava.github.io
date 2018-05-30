@@ -51,7 +51,7 @@ slack_url:
 twitter_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-77772815-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
