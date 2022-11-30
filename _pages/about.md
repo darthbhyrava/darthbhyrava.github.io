@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Grad Student at UW, Seattle. NLP Practitioner, Writer, Amateur Photographer. I love reading, observing, telling and analysing stories."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+Hello, I'm Sriharsh! In terms of nouns, I am an NLP practitioner, writer, amateur photographer, spotify playlist maker and a football (soccer) enthusiast. In terms of verbs, well - I simply love reading, observing, telling and analysing stories.
+
+I'm pursuing a Master's in Computational Linguistics at the University of Washington, Seattle. Prior to this, I graduated from IIIT-Hyderabad, India and worked for almost four years as an NLP Data Scientist at Klevu Oy, an AI startup that builds discovery tools for ecommerce websites. I received the Best Paper award for my work on generating character arcs from narratives at Text2Story@ECIR, 2022 under the guidance of my advisor, Prof. Manish Shrivastava. 
+
+I watch a lot of football (or soccer, as they call it over here), capture and edit a lot of photographs, listen to a lot of music and write fewer poems, short stories and blogs than I would like to. My first book of poems, _sorting through paperwork after midnight_ was published by Authorspress in 2019. My apologies if you were one of the unsuspecting readers who stumbled across it.
+
+I am looking for opportunities in applied science, machine learning and natural language processing in the Seattle area. Please let me know if you think I'm a good fit. 
+
+
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +58,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
