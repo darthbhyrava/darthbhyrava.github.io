@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: https://drive.google.com/file/d/1byNqQ19FhQT1fHkRTgVIoCNeKzjjHQYr/view?usp=
 
-  - title: "Work Experience"
-    url: /work_ex/
+  # - title: "Work Experience"
+  #   url: /work_ex/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
-  - title: "Photography"
-    url: /photography/    
+  # - title: "Photography"
+  #   url: /photography/    
         
-  - title: "Personal Blog"
-    url: /blog/
+  - title: "Blog"
+    url: https://blog.darthbhyrava.com
