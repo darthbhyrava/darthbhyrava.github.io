@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Grad Student at UW, Seattle. NLP Practitioner, Writer, Amateur Photographer. I love reading, observing, telling and analysing stories."
+title: "Hello There!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Sriharsh! In terms of nouns, I am an NLP practitioner, writer, amateur photographer, spotify playlist maker and a football (soccer) enthusiast. In terms of verbs, well - I simply love reading, observing, telling and analysing stories.
+Thanks for dropping by! You can call me Sriharsh - or simply Harsh. I work in NLP, and love reading, observing, telling and analysing stories. I also write a little, dabble in photography, go for runs, follow and play football, and make lots of spotify playlists.
 
-I'm pursuing a Master's in Computational Linguistics at the University of Washington, Seattle. Prior to this, I graduated from IIIT-Hyderabad, India and worked for almost four years as an NLP Data Scientist at Klevu Oy, an AI startup that builds discovery tools for ecommerce websites. I received the Best Paper award for my work on generating character arcs from narratives at Text2Story@ECIR, 2022 under the guidance of my advisor, Prof. Manish Shrivastava. 
+I'm pursuing a [Master's in Computational Linguistics](https://www.compling.uw.edu/) at the [University of Washington, Seattle](https://www.washington.edu/). Prior to this, I studied Computer Science at [IIIT-Hyderabad, India](https://www.iiit.ac.in/) and worked for almost four years as an NLP Data Scientist at [Klevu Oy](https://www.klevu.com/), an AI startup that builds discovery tools for ecommerce websites. I recently received the Best Paper award for my work on [generating character arcs from narratives](https://ceur-ws.org/Vol-3117/paper7.pdf) at [Text2Story@ECIR, 2022](https://text2story22.inesctec.pt/) under the guidance of my advisor, Prof. Manish Shrivastava. My first book of poems, [_sorting through paperwork after midnight_](https://www.authorspressbooks.com/book_detail.php?preference=1784) was published by Authorspress in 2019. My apologies if you were one of the unsuspecting readers who stumbled across it.
 
-I watch a lot of football (or soccer, as they call it over here), capture and edit a lot of photographs, listen to a lot of music and write fewer poems, short stories and blogs than I would like to. My first book of poems, _sorting through paperwork after midnight_ was published by Authorspress in 2019. My apologies if you were one of the unsuspecting readers who stumbled across it.
-
-I am looking for opportunities in applied science, machine learning and natural language processing in the Seattle area. Please let me know if you think I'm a good fit. 
+**I am looking for opportunities in applied science, machine learning and natural language processing in the Seattle area. Please let me know if you think I'm a good fit!**
 
 
 

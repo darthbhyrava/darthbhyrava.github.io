@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Sriharsh Bhyravajjula"
 title_separator          : "-"
-name                     : &name "Sriharsh Bhyravajjula"
-description              : &description "Grad Student at UW, Seattle. NLP Practitioner, Writer, Amateur Photographer. I love reading, observing, telling and analysing stories."
+name                     : &name "darthbhyrava"
+description              : &description "Grad Student at UW, Seattle. Experienced NLP Practitioner. Amateur Writer and Photographer. Part-time Sith Lord."
 url                      : https://darthbhyrava.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "darthbhyrava/darthbhyrava.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sriharsh Bhyravajjula"
   avatar           : "https://darthbhyrava.github.io/files/profile.jpg"
-  bio              : "CompLing Grad Student at the University of Washington, Seattle."
+  bio              : "CompLing Grad Student @ University of Washington, Seattle"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
