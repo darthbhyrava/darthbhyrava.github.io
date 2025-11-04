@@ -1,7 +1,10 @@
 # main links links
 main:
+  - title: "Publications"
+    url: /publications/
+
   - title: "CV"
-    url: https://drive.google.com/file/d/1lvPUm1DORL2JJfmLCkTnjFoSxEdJGTcI/view?usp=sharing
+    url: /files/Sriharsh_Bhyravajjula_Oct_2025.pdf
 
   # - title: "Work Experience"
   #   url: /work_ex/

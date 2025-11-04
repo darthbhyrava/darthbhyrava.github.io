@@ -83,14 +83,16 @@ analytics:
 author:
   name             : "Sriharsh Bhyravajjula"
   avatar           : "https://darthbhyrava.github.io/files/profile.jpg"
-  bio              : "CompLing Grad Student @ University of Washington, Seattle"
+  bio              : "Applied Scientist /<br>NLP Researcher /<br>Poet /<br>*"
   location         : "Seattle, WA"
   employer         :
+  cv               : "files/Sriharsh_Bhyravajjula_Oct_2025.pdf"  # Path to your CV PDF (upload to /files/ directory)
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V43CTm4AAAAJ&hl=en&oi=ao"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
+  bluesky          :  "bhyravajjula.bsky.social"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,7 +102,7 @@ author:
   github           : "darthbhyrava"
   google_plus      :
   keybase          :
-  instagram        : "darthbhyrava"
+  spotify          :  "https://open.spotify.com/user/darth_bhyrava?si=fc894ecb968247fa"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sbhyravajjula/"
