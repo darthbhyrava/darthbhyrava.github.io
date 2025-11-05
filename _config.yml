@@ -92,7 +92,7 @@ author:
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bluesky          :  "bhyravajjula.bsky.social"
+  bluesky          : "bhyravajjula.bsky.social"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   github           : "darthbhyrava"
   google_plus      :
   keybase          :
-  spotify          :  "https://open.spotify.com/user/darth_bhyrava?si=fc894ecb968247fa"
+  spotify          : "https://open.spotify.com/user/darth_bhyrava?si=fc894ecb968247fa"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sbhyravajjula/"
